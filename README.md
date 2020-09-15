@@ -1,6 +1,6 @@
-# quizz
+# Timed Quiz
 
-A new Flutter application.
+A new Flutter application designed to be a webapp for nonprofit organization hosted on https://dattmandirquiz.netlify.app/#/
 
 ## Getting Started
 
