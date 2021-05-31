@@ -1,4 +1,6 @@
-# Timed Quiz
+# Timed Quiz - Flutter Web
+![Screenshot 2021-06-01 at 05 21 50](https://user-images.githubusercontent.com/35066779/120249697-595d3e80-c299-11eb-9119-43b0a2c1998e.png)
+
 
 A new Flutter application designed to be a webapp for nonprofit organization hosted on https://dattmandirquiz.netlify.app/#/
 
